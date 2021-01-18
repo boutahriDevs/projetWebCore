@@ -15,7 +15,7 @@ namespace projetWebCore.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            /// npuveau modification
+           /// modification sur la branche Branch_dev_asp
             _logger = logger;
         }
 
