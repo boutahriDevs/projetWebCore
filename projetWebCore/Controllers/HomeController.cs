@@ -15,7 +15,7 @@ namespace projetWebCore.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-           /// modification sur la branche Branch_dev_asp Date 19-01
+           /// ChekOut Upadate GIT Date 19-01
             _logger = logger;
         }
 
