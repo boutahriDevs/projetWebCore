@@ -15,8 +15,7 @@ namespace projetWebCore.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-           /// modification sur la branche Branch_dev_asp
-           /// bonne utilisation de git sur visual studio
+           /// modification sur la branche Branch_dev_asp 19-01-2021
             _logger = logger;
         }
 
